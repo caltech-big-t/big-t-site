@@ -5,7 +5,7 @@ visible: false
 position: top
 ---
 
-#### Markdown Area
+#### We're Recruiting!
 
 Some text here.
 

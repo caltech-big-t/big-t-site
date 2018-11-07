@@ -1,8 +1,7 @@
 ---
 title: Blog
+media_order: 'staff_c.jpg,mountain.jpg'
 hide_git_sync_repo_link: false
-sitemap:
-    changefreq: monthly
 body_classes: 'header-dark header-transparent'
 hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
 blog_url: /blog
@@ -21,11 +20,13 @@ content:
 bricklayer_layout: true
 display_post_summary:
     enabled: false
+sitemap:
+    changefreq: monthly
 feed:
     description: 'Sample Blog Description'
     limit: 10
 pagination: true
 ---
 
-# My **Open Publishing** Space
-## Create, Share and Collaborate
+# The Big T
+## The Official Caltech Yearbook

@@ -4,5 +4,6 @@ routable: false
 visible: false
 ---
 
-Built with [Grav CMS](http://getgrav.org)  
-[Open Blog Space](http://learn.hibbittsdesign.org/openpublishingspace) package by [hibbittsdesign.org](http://hibbittsdesign.org)  
+Built with [fa=heart /] by [chrwang](https://github.com/chrwang) for _The Big T_.
+
+Powered by [Grav](https://getgrav.org) and [DigitalOcean](https://digitalocean.com).
