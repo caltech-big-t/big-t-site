@@ -1,14 +1,22 @@
 ---
-title: The Urban Jungle
-date: 17:34 07/04/2017 
-
-hero_classes: text-light title-h1h2 overlay-dark-gradient hero-large parallax
-hero_image: unsplash-sidney-perry.jpg
-show_sidebar: true
-
+title: 'The Urban Jungle'
+published: false
+date: '17:34 07/04/2017'
 taxonomy:
-    category: blog
-    tag: [travel, photography, city]
+    category:
+        - blog
+    tag:
+        - photography
+        - city
+        - travel
+hide_git_sync_repo_link: false
+hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
+hero_image: unsplash-sidney-perry.jpg
+blog_url: /blog
+show_sidebar: true
+show_breadcrumbs: true
+show_pagination: true
+hide_from_post_list: false
 ---
 
 Lorem markdownum credas animos nec Phoeboque; de iuris *creverat* et finis ad
