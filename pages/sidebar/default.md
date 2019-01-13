@@ -6,6 +6,10 @@ visible: false
 position: top
 ---
 
+<h4 style="margin-top: 0rem !important;"> Buy an ad or personal message! </h4>
+
+Want to have something included in the book? Fill out [this form](https://www.cognitoforms.com/CaltechYearbook1/CaltechYearbook20182019AdvertisementPurchaseForm) **by July 1st** to purchase a space.
+
 #### We're Recruiting!
 
 _The Big T_ is always looking for more dedicated staff! Interested in joining? Email us at [bigtyearbook@caltech.edu](mailto:bigtyearbook@caltech.edu) and let us know.
