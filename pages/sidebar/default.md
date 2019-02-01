@@ -14,7 +14,7 @@ Want to have something included in the book? Fill out [this form](https://www.co
 
 _The Big T_ is always looking for more dedicated staff! Interested in joining? Email us at [bigtyearbook@caltech.edu](mailto:bigtyearbook@caltech.edu) and let us know.
 
-[plugin:page-inject](/twitterfeed)
+[twitter url="https://twitter.com/CaltechBigT" text="Tweets by @CaltechBigT" height="600"]
 
 #### Around the Web
 <a href="https://www.facebook.com/CaltechBigT"> <i class="fa fa-facebook-square fa-2x"></i></a><a href="https://www.instagram.com/caltechbigt/"> <i class="fa fa-instagram fa-2x"></i></a><a href="https://twitter.com/CaltechBigT"> <i class="fa fa-twitter-square fa-2x"></i></a>
