@@ -6,11 +6,7 @@ hide_git_sync_repo_link: false
 ---
 
 # Elise Cutts
+## Editor in Chief
+#### senior // geobiology // [ecutts@caltech.edu](mailto:ecutts@caltech.edu)
 
-## This is an interesting subtitle.
-
-Molestiae neque enim deleniti tenetur saepe. Repudiandae quidem libero autem ducimus provident architecto. Mollitia voluptatibus aut quis repellat nihil. Voluptas incidunt voluptatem pariatur in. Autem aliquid est optio.
-
-Soluta non quod minima suscipit et enim. Quia necessitatibus voluptatem debitis nam praesentium. Nesciunt ad aut et eos praesentium. Et ratione fuga earum laborum est perspiciatis iusto impedit.
-
-Dolores ut rerum corrupti ab. Sit non hic recusandae similique nihil in sit ratione.
+Beyond leading the Big T, Elise is holds an internship at Caltech's Office of Strategic Communication and serves on the editorial board of [The Caltech Letters](https://caltechletters.org/). She co-hosted [_Strange New Words: A Science and Star Trek Podcast_](https://soundcloud.com/strange-new-worlds) from 2017-2018 and has appeared as a guest on the  Trek.fm network podcasts [_Warp Five_](http://www.trek.fm/warp-five/) and [_Earl Gray_](http://www.trek.fm/earl-gray/). Elise is also the teaching assistant for  Caltech courses including Ge 159 Astrobiology and Bi 1 Principles of Biology. The history of the co-evolution of life and the Earth is her favorite story of all, and Elise hopes to continue working at the intersection of earth sciences, biology, and storytelling for the rest of her life. 

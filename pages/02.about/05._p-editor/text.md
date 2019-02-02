@@ -1,12 +1,13 @@
 ---
 title: Photo-Editor
 image_align: right
-date: '09:24 07-11-2018'
+date: '2018-11-07 09:24'
 hide_git_sync_repo_link: false
 ---
 
 # Noelle Davis
+## Managing Editor.
 
-## This is an interesting subtitle.
+### junior // electrical engineering // [noelle@caltech.edu](mailto:noelle@caltech.edu)
 
-More interesting text.
+Noelle is too busy being an EE to write this bio
