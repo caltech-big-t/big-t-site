@@ -5,7 +5,7 @@ date: '2019-02-01 17:01'
 hide_git_sync_repo_link: false
 ---
 
-# Staff  
+# General Staff  
 
 ### Editorial and Operations Staff
 **Photography Editor**// Chris Wang (freshman, undeclared)  
