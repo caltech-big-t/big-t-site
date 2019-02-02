@@ -6,7 +6,7 @@ hide_git_sync_repo_link: false
 ---
 
 # Noelle Davis
-## Managing Editor.
+## Managing Editor
 
 ### junior // electrical engineering // [noelle@caltech.edu](mailto:noelle@caltech.edu)
 

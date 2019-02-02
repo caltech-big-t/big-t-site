@@ -1,6 +1,9 @@
 ---
 title: 'Big  T Website Launches'
-date: '2019-02-01 10:32'
+date: '2019-01-01 10:32'
+taxonomy:
+    tag:
+        - Announcements
 hide_git_sync_repo_link: false
 blog_url: /blog
 show_sidebar: true
