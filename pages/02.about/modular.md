@@ -1,5 +1,5 @@
 ---
-title: 'About Us'
+title: 'Staff Directory'
 content:
     items: '@self.modular'
 published: true

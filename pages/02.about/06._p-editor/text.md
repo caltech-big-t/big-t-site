@@ -1,5 +1,5 @@
 ---
-title: Photo-Editor
+title: Managing-Editor
 image_align: right
 date: '2018-11-07 09:24'
 hide_git_sync_repo_link: false

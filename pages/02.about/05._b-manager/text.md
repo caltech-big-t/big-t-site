@@ -7,6 +7,6 @@ hide_git_sync_repo_link: false
 
 # Joseph Min
 
-## Business Manager
+## Operations Manager
 #### junior // biology // [kmin@caltech.edu](mailto:kmin@caltech.edu)
 Joseph is moneyman mcgee and this is staying on the website until he fixes it
