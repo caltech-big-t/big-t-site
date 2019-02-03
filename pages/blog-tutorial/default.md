@@ -1,18 +1,12 @@
 ---
-title: 'How to Add Blog Posts'
-published: false
-date: '2018-11-08 09:48'
+title: 'Blog Writing Tutorial'
+date: '2019-02-03 14:23'
 hide_git_sync_repo_link: false
-blog_url: /blog
-show_sidebar: true
-show_breadcrumbs: true
-show_pagination: true
-hide_from_post_list: false
+access:
+    site.login: true
 ---
 
-Instructions on how to write a blog post for this site.
-
-===
+## Blog Writing
 
 So you want to write a blog for the site? Great! If you've never used Grav before, this will be useful.
 

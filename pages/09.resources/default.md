@@ -10,6 +10,8 @@ Here we collect the useful resources that might be helpful in the course of maki
 
 ## Useful Links
 
+[How to write blog posts](https://bigt.cf/blog-tutorial)
+
 [Box of everything](caltech.box.com)
 
 [2018-2019 Ladder](https://docs.google.com/spreadsheets/d/1RZ9-TFsxzsjA92KfOxS7OIit8_xwOqC_HP5xiy7OfqY/edit?usp=sharing)
