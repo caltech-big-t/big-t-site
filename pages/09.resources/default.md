@@ -1,6 +1,7 @@
 ---
 title: Resources
 date: '2019-01-14 19:13'
+hide_git_sync_repo_link: false
 access:
     site.login: true
 ---
@@ -20,6 +21,7 @@ Here we collect the useful resources that might be helpful in the course of maki
 
 [How to Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code)
 
+[Check Spread Builds](https://bigtbuilds.caltech.edu)
 
 ## Useful Commands
  To combine all pdfs in a directory, go to that directory in Terminal and run `gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=finished.pdf *.pdf`.
