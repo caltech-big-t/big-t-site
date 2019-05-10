@@ -8,7 +8,7 @@ position: top
 
 <h4 style="margin-top: 0rem !important;"> Buy an ad or personal message! </h4>
 
-Want to have something included in the book? Fill out [this form](https://www.cognitoforms.com/CaltechYearbook1/CaltechYearbook20182019AdvertisementPurchaseForm) **by July 1st** to purchase a space.
+Want to have something included in the book? Fill out [this form](https://bit.ly/2WwXEed) **by July 1st** to purchase a space.
 
 #### We're Recruiting!
 
