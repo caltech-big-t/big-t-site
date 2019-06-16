@@ -1,6 +1,6 @@
 ---
 title: Blog
-media_order: staff_c.jpg
+media_order: resized_staff.jpg
 hide_git_sync_repo_link: false
 body_classes: 'header-dark header-transparent'
 hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
@@ -20,11 +20,11 @@ content:
 bricklayer_layout: true
 display_post_summary:
     enabled: false
+feed:
+    limit: 10
+    description: 'Sample Blog Description'
 sitemap:
     changefreq: monthly
-feed:
-    description: 'Sample Blog Description'
-    limit: 10
 pagination: true
 ---
 
