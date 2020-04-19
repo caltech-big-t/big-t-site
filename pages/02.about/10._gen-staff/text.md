@@ -13,4 +13,4 @@ Jenny Ji _(frosh // undeclared)_
 Abigail Jiang _(frosh // undeclared)_  
 Ziyan Mo _(senior // computer science)_   
 Kevin Yu _(sophomore // chemistry)_  
-Eileen Zhang _(frosh // undeclared)_  
+Eilleen Zhang _(frosh // undeclared)_  

@@ -1,6 +1,6 @@
 ---
 title: 'Commencement 2019 Photos'
-media_order: 49755364601_39bfd96e02_o.jpg
+media_order: 49755364601_b1310133c7_k.jpg
 published: true
 date: '2020-04-09 20:33'
 taxonomy:
@@ -21,7 +21,7 @@ feed:
 
 Photos from **Commencement 2019** have been uploaded to our [Flickr photo archive](https://www.flickr.com/photos/bigtyearbook/collections/72157677199517287/).
 
-![](49755364601_39bfd96e02_o.jpg)
+![](49755364601_b1310133c7_k.jpg)
 
 ===
 
