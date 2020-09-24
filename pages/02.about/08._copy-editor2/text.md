@@ -1,6 +1,7 @@
 ---
 title: Copy-editor2
 image_align: left
+published: false
 date: '2020-04-08 17:47'
 hide_git_sync_repo_link: false
 ---

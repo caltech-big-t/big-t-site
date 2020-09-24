@@ -9,5 +9,5 @@ hero_classes: 'parallax text-light'
 
 #### The dedicated people behind _The Big T_
 
-Hello, we're the staff of _The Big T_, Caltech's official yearbook—the ~~insane~~ dedicated people that work hard throughout the year to bring you an awesome, amazing, and free book at the end of the year! We're more than just yearbook nerds, though. Find out more below!
+Hello, we're the staff of _The Big T_, Caltech's official yearbook—the ~~insane~~ dedicated people that work hard throughout the year to bring you an awesome, amazing, and free book at the end of the year! We're more than just yearbook nerds, though. Find out below!
 

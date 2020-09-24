@@ -6,13 +6,9 @@ visible: false
 position: top
 ---
 
-<h4 style="margin-top: 0rem !important;"> Buy an ad or personal message! </h4>
-
-Want to have something included in the book? Fill out [this form](https://bit.ly/2WwXEed) **by July 1st** to purchase a space.
-
 #### We're Recruiting!
 
-_The Big T_ is always looking for more dedicated staff! Interested in joining? Email us at [bigtyearbook@caltech.edu](mailto:bigtyearbook@caltech.edu) and let us know.
+_The Big T_ is always looking for more dedicated staff! Interested in joining? Please contact Shu Fay Ung at [suung@caltech.edu](mailto:suung@caltech.edu) and let us know.
 
 [twitter url="https://twitter.com/CaltechBigT" text="Tweets by @CaltechBigT" height="600"]
 

@@ -7,7 +7,7 @@ hide_git_sync_repo_link: false
 
 # Chris Wang
 ## Co-Photography Editor
-#### sophomore // computer science // [cwang7@caltech.edu](mailto:cwang7@caltech.edu)
+#### junior // computer science // [cwang7@caltech.edu](mailto:cwang7@caltech.edu)
 
 beep boop I make website worky
 

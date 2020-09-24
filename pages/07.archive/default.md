@@ -1,12 +1,14 @@
 ---
 title: 'Yearbook Archives'
-body_classes: modular
 date: '2019-01-13 15:52'
+hide_git_sync_repo_link: false
+body_classes: modular
 ---
 
 # Yearbook Archive
 Lost your yearbook? Never got one? Just curious what your upperclassmen looked like as frosh? Links to previous years' yearbooks are maintained here.
 
+* [Decades, Volume 99](https://caltechcampuspubs.library.caltech.edu/3350/1/TheBigT_2019_2020.pdf)
 * [Discovery, Volume 97](https://caltechcampuspubs.library.caltech.edu/3291/1/2017book.pdf)
 * [Beyond, Volume 96](https://caltechcampuspubs.library.caltech.edu/3290/1/2016book.pdf)
 * [Ignite, Volume 95](https://caltechcampuspubs.library.caltech.edu/3257/1/2016%20vol.%2095.pdf)
