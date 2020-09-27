@@ -1,6 +1,7 @@
 ---
 title: Photo-editor1
-image_align: left
+media_order: DSC_0952-Print.jpg
+image_align: right
 date: '2019-02-03 15:10'
 hide_git_sync_repo_link: false
 ---
