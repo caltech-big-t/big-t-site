@@ -7,6 +7,5 @@ hide_git_sync_repo_link: false
 
 # General Staff   
 #### _"Without followers, evil cannot spread."_
-Abigail Jiang (sophomore, materials science)  
-Kevin Yu (junior, chemistry)  
+LC Chen (senior, computer science)  
 Eilleen Zhang (sophomore, electrical engineering)  

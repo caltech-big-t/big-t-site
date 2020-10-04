@@ -16,4 +16,4 @@ Other qualifications:
 
 * sysadmin for everything 
 * click click many pictures at [flickr.com/people/chrwang0](flickr.com/people/chrwang0)
-* Machine learning / computer vision at NIST, Aeromana, StreetSimplified
+* Webdev / ML with Yaser at [cs156.caltech.edu](cs156.caltech.edu)
