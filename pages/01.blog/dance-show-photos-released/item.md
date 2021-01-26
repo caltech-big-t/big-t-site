@@ -4,13 +4,15 @@ media_order: DSC_3456.jpg
 date: '2019-04-20 16:14'
 taxonomy:
     tag:
-        - Announcements
+        - Photography
 hide_git_sync_repo_link: false
 blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
 hide_from_post_list: false
+feed:
+    limit: 10
 ---
 
 Photos from **Dance Show 2019** have been uploaded to our [Flickr Archive](https://www.flickr.com/photos/bigtyearbook/collections/72157706641024201/).

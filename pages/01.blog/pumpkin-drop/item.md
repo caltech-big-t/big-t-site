@@ -2,6 +2,9 @@
 title: 'Pumpkin Drop 2019 Photos'
 media_order: 49766825962_4e20f919e4_k.jpg
 date: '2020-04-16 20:29'
+taxonomy:
+    tag:
+        - Photography
 hide_git_sync_repo_link: false
 blog_url: /blog
 show_sidebar: true

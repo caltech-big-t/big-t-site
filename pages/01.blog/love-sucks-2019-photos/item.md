@@ -5,7 +5,7 @@ published: true
 date: '2019-03-17 10:43'
 taxonomy:
     tag:
-        - Announcements
+        - Photography
 hide_git_sync_repo_link: false
 blog_url: /blog
 show_sidebar: true
@@ -13,6 +13,8 @@ show_breadcrumbs: true
 show_pagination: true
 header_image: '0'
 hide_from_post_list: false
+feed:
+    limit: 10
 ---
 
 Photos from **Love Sucks 2019** have been uploaded to our Flickr photo archive.

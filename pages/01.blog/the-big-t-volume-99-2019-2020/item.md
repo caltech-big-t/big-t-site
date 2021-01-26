@@ -1,6 +1,9 @@
 ---
 title: 'The Big T, volume 99, 2019-2020'
 date: '2020-09-24 01:32'
+taxonomy:
+    tag:
+        - Announcements
 hide_git_sync_repo_link: false
 blog_url: /blog
 show_sidebar: true

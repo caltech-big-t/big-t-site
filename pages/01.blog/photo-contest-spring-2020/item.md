@@ -1,6 +1,10 @@
 ---
 title: 'Spring 2020 Photo Contest'
 date: '2020-05-09 14:09'
+taxonomy:
+    tag:
+        - Photography
+        - 'Photo Contest'
 hide_git_sync_repo_link: false
 blog_url: /blog
 show_sidebar: true
