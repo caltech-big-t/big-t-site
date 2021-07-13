@@ -1,5 +1,5 @@
 ---
-title: 'Winter-Spring 2021 Photo Contest'
+title: '2021 Big T Photo Contest'
 date: '2021-01-25 12:59'
 taxonomy:
     tag:
