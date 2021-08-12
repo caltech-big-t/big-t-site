@@ -1,8 +1,8 @@
 ---
 title: '2021 Big T Photo Contest Winners'
 media_order: 'mathmajorinachemlab - Albert T.jpg,dunes - shufay ung-2.jpg,Ath Jacaranda - Emily Miaou-2.jpg'
-published: false
-date: '2021-07-12 14:39'
+published: true
+date: '2021-08-12 14:39'
 hide_git_sync_repo_link: false
 blog_url: /blog
 show_sidebar: true
