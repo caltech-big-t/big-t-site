@@ -1,13 +1,13 @@
 ---
 title: Co-EIC1
-media_order: DSC_0962-Print.jpg
+media_order: '120231948_376049273575016_253128818546588635_n (1).jpg'
 image_align: right
 date: '2018-11-07 09:24'
 hide_git_sync_repo_link: false
 ---
 
-# Eric Chen
+# Katherine Chang
 ## Co-Editor-in-Chief
-#### senior // computer science // [echen@caltech.edu](mailto:echen@caltech.edu)
+#### senior // acm + economics // [kchang5@caltech.edu](mailto:kchang5@caltech.edu)
 
-Eric joined the _Big T_ mostly interested in photography, but was slowly repurposed as a designer/writer on account of his not having a camera. The internal structure of an Eric is not well known, but his emission spectrum suggests the presence of Linux, Javascript, and software engineering, with signs of anime and spreadsheet formulas. He hopes that one day humans and computers will again live in harmony.
+Katherine joined the Big T in freshman year as a spread designer because she's broke and wanted free access to Adobe Creative Cloud (just kidding, but also...). Outside of yearbook, she enjoys bullet journaling, musicing, and stockpiling Tuesday dinner cookies in her room. At the moment, her research interests include behavorial economics and figuring out what people are thinking before they think it.!
