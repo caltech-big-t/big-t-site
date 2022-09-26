@@ -7,7 +7,7 @@ hide_git_sync_repo_link: false
 ---
 
 # Jenny Ji
-## Copy Editor
-#### sophomore // bioengineering // [jji@caltech.edu](mailto:jji@caltech.edu)
+## Co-Copy Editor
+#### senior // bioengineering // [jji@caltech.edu](mailto:jji@caltech.edu)
 
 Jenny joined the _Big T_ in freshman year as a copy-writer and spread designer. Currently, she is pursuing a degree in Bioengineering and is interested in developing diagnostic tools for various diseases. Outside of campus, she enjoys toying around with Photoshop, designing stuffed animals, and eating tangerines.

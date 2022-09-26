@@ -8,7 +8,7 @@ position: top
 
 #### We're Recruiting!
 
-_The Big T_ is always looking for more dedicated staff! Interested in joining? Please contact Shu Fay Ung at [suung@caltech.edu](mailto:suung@caltech.edu) and let us know.
+_The Big T_ is always looking for more dedicated staff! Interested in joining? Please contact us at [bigtyearbook@caltech.edu](mailto:bigtyearbook@caltech.edu) and let us know.
 
 [twitter url="https://twitter.com/CaltechBigT" text="Tweets by @CaltechBigT" height="600"]
 
