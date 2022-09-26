@@ -1,6 +1,8 @@
 ---
 title: 'Photo Archive'
-date: '06:39 07-11-2018'
+date: '2018-11-07 06:39'
+redirect: 'https://www.flickr.com/people/bigtyearbook/'
+hide_git_sync_repo_link: false
 ---
 
-### Don't edit this page! It automatically redirects to a Flickr URL. 
+Check out our Flickr page at [flickr.com](https://www.flickr.com/people/bigtyearbook/)!
