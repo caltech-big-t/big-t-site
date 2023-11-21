@@ -1,6 +1,6 @@
 ---
 title: Co-EIC1
-media_order: '120231948_376049273575016_253128818546588635_n (1).jpg'
+media_order: DH1A8395-minified.jpg
 image_align: right
 date: '2018-11-07 09:24'
 hide_git_sync_repo_link: false
